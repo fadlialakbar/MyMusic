@@ -53,6 +53,8 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     implementation("com.squareup.okhttp3:logging-interceptor:5.0.0-alpha.11")
     implementation("com.google.code.gson:gson:2.11.0")
+    implementation("com.github.bumptech.glide:glide:4.16.0")
+    implementation("androidx.appcompat:appcompat:1.6.1")
     implementation(libs.androidx.cardview)
     implementation(libs.androidx.recyclerview)
     implementation(libs.material)
